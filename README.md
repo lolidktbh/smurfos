@@ -1,2 +1,1 @@
-# smurfos
-Smurf cat operating system based off of Debian v12.1
+Did you really click on a file because it says read me shamefull 🤓🤨
